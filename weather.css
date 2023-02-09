@@ -1,0 +1,23 @@
+body{
+    background-image:url(sky.jpg);
+    background-size: cover;
+    background-repeat:no-repeat ;
+}
+#t1{
+    color:aqua;
+}
+#p1{
+    color: aqua;
+}
+#h1{
+    color:aqua;
+}
+#temp{
+    color:aqua;
+}
+#pre{
+    color:aqua;
+}
+#hum{
+    color:aqua;
+}
